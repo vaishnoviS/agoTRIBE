@@ -1,5 +1,6 @@
 #Requires: bcftools, vcftools, subread, tabix, BEDTools, samtools, SnpSift
 #DBSNP file can be downloaded from: ftp://ftp.ncbi.nlm.nih.gov/snp/organisms/human_9606/VCF/
+SnpSift=SnpSift.jar
 DBSNP=00-All.vcf.gz
 #REDIporta;_hg38_output.vcf is downlaoded from http://srv00.recas.ba.infn.it/atlas/download.html; compressed and indexed with tabix
 #genes_from_hg38_ensembl.bed.gz is the bed file with protein coding gene only, downloaded from Ensembl
