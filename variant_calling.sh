@@ -8,7 +8,7 @@ SAM2TSV=sam2tsv.jar
 GENOME=resources-broad-hg38-v0-Homo_sapiens_assembly38.fasta
 #vcf_header.txt
 echo '##fileformat=VCFv4.2' > vcf_header.txt
-echo $'#CHROM\tPOS\tID\tREF\tALT\tQUAL\tFILTER\tINFO' >> vcf_header.txt
+echo '#CHROM\tPOS\tID\tREF\tALT\tQUAL\tFILTER\tINFO' >> vcf_header.txt
 
 #Phread_score input file 
 #The script has to be run as awk -v Pst=10 -f script.awk
