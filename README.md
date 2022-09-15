@@ -17,9 +17,10 @@ Steps to Follow
 3. dbSNP, REDIportal and adding gene ID and strand informtaion to VCF file - code in annotating_variant_files.sh
 
 
-# Supplementary table for the manuscipt can be found under directory SupplementaryTables
+Supplementary table for the manuscipt can be found under directory SupplementaryTables
 
-# References
+References
+
 1. Dobin, A. et al. STAR: ultrafast universal RNA-seq aligner. Bioinformatics 29, 15-21 (2013).
 
 2. Tarasov, A., Vilella, A.J., Cuppen, E., Nijman, I.J. & Prins, P. Sambamba: fast processing of NG alignment formats. Bioinformatics 31, 2032-2034 (2015).
