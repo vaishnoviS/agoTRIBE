@@ -17,8 +17,19 @@ Steps to Follow
 3. dbSNP, REDIportal and adding gene ID and strand informtaion to VCF file - code in annotating_variant_files.sh
 
 
-## Supplementary table for the manuscipt can be found under directory SupplementaryTables
+# Supplementary table for the manuscipt can be found under directory SupplementaryTables
 
-## References
-1.
-2. 
+# References
+1. Dobin, A. et al. STAR: ultrafast universal RNA-seq aligner. Bioinformatics 29, 15-21 (2013).
+
+2. Tarasov, A., Vilella, A.J., Cuppen, E., Nijman, I.J. & Prins, P. Sambamba: fast processing of NG alignment formats. Bioinformatics 31, 2032-2034 (2015).
+
+3. Liao, Y., Smyth, G.K. & Shi, W. featureCounts: an efficient general purpose program for assigning sequence reads to genomic features. Bioinformatics 30, 923-930 (2014).
+
+4. Sherry, S.T., Ward, M. & Sirotkin, K. dbSNP-database for single nucleotide polymorphisms and other classes of minor genetic variation. Genome research 9, 677-679 (1999).
+
+5. Picardi, E., D'Erchia, A.M., Lo Giudice, C. & Pesole, G. REDIportal: a comprehensive database of A-to-I RNA editing events in humans. Nucleic acids research 45, D750-D757 (2017).
+
+6. Blin, K. et al. DoRiNA 2.0--upgrading the doRiNA database of RNA interactions in posttranscriptional regulation. Nucleic acids research 43, D160-167 (2015).
+
+7. Lindenbaum, Pierre: JVarkit: java-based utilities for Bioinformatics. figshare. http://dx.doi.org/10.6084/m9.figshare.1425030 (2015)
